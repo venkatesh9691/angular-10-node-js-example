@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Integrate Angular 10 with Node.js Restful Services example",
   "main": "server.js",
+  "publishConfig" : {
+    "registry" : "http://16.171.0.238:8081/repository/nodejs-proj/"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
     
