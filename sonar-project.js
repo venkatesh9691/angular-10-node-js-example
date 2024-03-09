@@ -1,6 +1,6 @@
 const sonarqubeScanner = require('sonarqube-scanner');
     sonarqubeScanner({
-      serverUrl: 'http://16.170.234.56:9000/,
+      serverUrl: 'http://16.170.234.56:9000/',
       options : {
       'sonar.sources': '.',
         'sonar.projectKey'=venkateshangular
