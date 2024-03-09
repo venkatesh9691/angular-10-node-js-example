@@ -8,7 +8,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    "sonar" : "node sonar-project.js"
   },
   "keywords": [
     "angular",
